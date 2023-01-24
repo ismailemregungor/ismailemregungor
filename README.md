@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [quest-app](https://github.com/ismailemregungor/quest-app)  
   
 
-- 🌱 I’m currently learning React.js, Node.js, .NET Core  
+- 🌱 I’m currently learning React.js and .NET Core  
   
 
 - 📫 How to reach me ismailemre.gungor@gmail.com  
