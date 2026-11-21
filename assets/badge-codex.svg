@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" fill="none">
+  <rect x="0.75" y="0.75" width="114.5" height="30.5" rx="6" fill="#070812" stroke="#00F0FF" stroke-opacity="0.7" stroke-width="1.5" />
+  <g transform="translate(11, 7)" stroke="#00F0FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="3,5 7.5,9 3,13" />
+    <line x1="9.5" y1="13" x2="15" y2="13" />
+  </g>
+  <text x="36" y="20.5" fill="#F8FAFC" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.2">CODEX</text>
+</svg>

@@ -5,12 +5,12 @@
 
 <!-- Neon Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=680&lines=AI-Focused+Software+Developer+%40+Ziraat+Teknoloji;C%23+%2F+.NET+%E2%80%A2+Oracle+PL%2FSQL+%E2%80%A2+TypeScript+%26+React;AI-Driven+Dev%3A+Claude+%E2%80%A2+Codex+%E2%80%A2+Antigravity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=AI-Focused+Software+Developer+%40+Ziraat+Teknoloji;C%23+%2F+.NET+%E2%80%A2+Oracle+PL%2FSQL+%E2%80%A2+TypeScript+%26+React;AI-Driven+Dev%3A+Claude+%E2%80%A2+Codex+%E2%80%A2+Antigravity" alt="Typing SVG" />
 </p>
 
 <!-- Animated Cyberpunk HUD Card -->
 <p align="center">
-  <img src="./assets/about-hud.svg" alt="About Me HUD" width="100%" />
+  <img src="./assets/about-hud.svg?v=2" alt="About Me HUD" width="100%" />
 </p>
 
 ---
@@ -19,15 +19,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C# and .NET" height="48" />
+  </a>
+  &nbsp;
+  <img src="./assets/oracle-plsql.svg?v=1" alt="Oracle PL/SQL" height="48" />
+  &nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react&theme=dark" alt="TypeScript and React" height="48" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-070812?style=for-the-badge&logo=oracle&logoColor=FF007F" alt="Oracle PL/SQL" />
-  <img src="https://img.shields.io/badge/Claude-070812?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/Codex-070812?style=for-the-badge&logo=openai&logoColor=00F0FF" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-070812?style=for-the-badge&logo=google&logoColor=FF007F" alt="Antigravity" />
+  <img src="./assets/badge-claude.svg?v=1" alt="Claude" height="32" />
+  &nbsp;
+  <img src="./assets/badge-codex.svg?v=1" alt="Codex" height="32" />
+  &nbsp;
+  <img src="./assets/badge-antigravity.svg?v=1" alt="Antigravity" height="32" />
 </p>
 
 ---
