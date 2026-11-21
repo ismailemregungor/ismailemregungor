@@ -5,18 +5,17 @@
 
 <!-- Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Ziraat+Teknoloji;C%23+%2F+.NET+%E2%80%A2+Oracle+PL%2FSQL+%E2%80%A2+React+%26+TypeScript;Building+with+Modern+Web+%26+AI+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Ziraat+Teknoloji;C%23+%2F+.NET+%E2%80%A2+React+%26+TypeScript;AI-Assisted+Engineering+(Claude%2C+Codex%2C+Antigravity)" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-Software Developer at **Ziraat Teknoloji**, building enterprise backend systems, database-intensive applications, and modern web interfaces.
+Software Developer at **Ziraat Teknoloji**, building enterprise backend services and modern web applications.
 
-- 🔭 **Backend & Database:** C#, .NET, Oracle PL/SQL
-- 💻 **Frontend:** React, TypeScript
-- 🤖 **Workflow & Focus:** Leveraging AI developer tools, clean architecture, and scalable full-stack solutions
+- 🔭 **Core Stack:** C#, .NET, TypeScript, React
+- 🤖 **AI Workflow:** Claude, Codex, Antigravity
 - 📫 **Reach me:** ismailemre.gungor@gmail.com
 
 ---
@@ -25,13 +24,14 @@ Software Developer at **Ziraat Teknoloji**, building enterprise backend systems,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,js,nodejs,postgres,docker,azure,git&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react" alt="Tech Stack" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle PL/SQL" />
-  <img src="https://img.shields.io/badge/AI_Tools-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 </p>
 
 ---
@@ -45,15 +45,6 @@ Software Developer at **Ziraat Teknoloji**, building enterprise backend systems,
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ismailemregungor/ismailemregungor/output/github-snake.svg" />
   </picture>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[freely](https://github.com/ismailemregungor/freely)** | A platform where users can freely share any moment | `JavaScript` |
-| **[quest](https://github.com/ismailemregungor/quest)** | An open Q&A application for asking anything freely | `JavaScript` |
 
 ---
 
