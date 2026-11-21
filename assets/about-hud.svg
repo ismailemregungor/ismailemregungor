@@ -100,10 +100,10 @@
 
   <!-- Terminal Rows -->
   <text x="32" y="76" class="mono key">&gt; ROLE</text>
-  <text x="150" y="76" class="mono val">Software Developer @ <tspan fill="#00f0ff" font-weight="700">Ziraat Teknoloji</tspan></text>
+  <text x="150" y="76" class="mono val">AI-Focused Software Developer @ <tspan fill="#00f0ff" font-weight="700">Ziraat Teknoloji</tspan></text>
 
   <text x="32" y="112" class="mono key">&gt; STACK</text>
-  <text x="150" y="112" class="mono val">C#  <tspan fill="#ff007f">·</tspan>  .NET  <tspan fill="#ff007f">·</tspan>  TypeScript  <tspan fill="#ff007f">·</tspan>  React</text>
+  <text x="150" y="112" class="mono val">C#  <tspan fill="#ff007f">·</tspan>  .NET  <tspan fill="#ff007f">·</tspan>  Oracle PL/SQL  <tspan fill="#ff007f">·</tspan>  TypeScript  <tspan fill="#ff007f">·</tspan>  React</text>
 
   <text x="32" y="148" class="mono key">&gt; AI_RIG</text>
   <text x="150" y="148" class="mono val">Claude  <tspan fill="#00f0ff">·</tspan>  Codex  <tspan fill="#00f0ff">·</tspan>  Antigravity</text>
@@ -112,6 +112,5 @@
   <text x="150" y="184" class="mono val">ismailemre.gungor@gmail.com</text>
 
   <text x="32" y="216" class="mono dim">~/workspace $</text>
-  <text x="150" y="216" class="mono accent">building clean, high-impact software</text>
-  <rect class="cursor" x="458" y="204" width="8" height="15" fill="#00f0ff" filter="url(#glowCyan)" />
+  <text x="150" y="216" class="mono accent">engineering AI-driven, high-impact software<tspan class="cursor" fill="#00f0ff"> █</tspan></text>
 </svg>

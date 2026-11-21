@@ -1,11 +1,11 @@
 <!-- Cyberpunk Neon Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070812,40:1a0b2e,75:ff007f,100:00f0ff&height=190&section=header&text=İsmail%20Emre%20Güngör&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CYBERNETIC%20CODE%20%E2%80%A2%20CLEAN%20ARCHITECTURE&descAlignY=58&descSize=13&descColor=00f0ff" alt="Cyberpunk Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070812,40:1a0b2e,75:ff007f,100:00f0ff&height=180&section=header&text=İsmail%20Emre%20Güngör&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Cyberpunk Header" />
 </p>
 
 <!-- Neon Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Ziraat+Teknoloji;C%23+%2F+.NET+%E2%80%A2+TypeScript+%26+React;AI-Powered+Dev%3A+Claude+%E2%80%A2+Codex+%E2%80%A2+Antigravity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=680&lines=AI-Focused+Software+Developer+%40+Ziraat+Teknoloji;C%23+%2F+.NET+%E2%80%A2+Oracle+PL%2FSQL+%E2%80%A2+TypeScript+%26+React;AI-Driven+Dev%3A+Claude+%E2%80%A2+Codex+%E2%80%A2+Antigravity" alt="Typing SVG" />
 </p>
 
 <!-- Animated Cyberpunk HUD Card -->
@@ -24,6 +24,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-070812?style=for-the-badge&logo=oracle&logoColor=FF007F" alt="Oracle PL/SQL" />
   <img src="https://img.shields.io/badge/Claude-070812?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
   <img src="https://img.shields.io/badge/Codex-070812?style=for-the-badge&logo=openai&logoColor=00F0FF" alt="Codex" />
   <img src="https://img.shields.io/badge/Antigravity-070812?style=for-the-badge&logo=google&logoColor=FF007F" alt="Antigravity" />
